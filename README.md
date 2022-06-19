@@ -1,1 +1,1 @@
-https://maxhalford.github.io/bio
+maxhalford.github.io/bio
